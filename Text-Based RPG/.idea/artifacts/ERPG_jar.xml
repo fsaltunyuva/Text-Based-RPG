@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ERPG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ERPG_jar</output-path>
+    <root id="archive" name="ERPG.jar">
+      <element id="module-output" name="ERPG" />
+    </root>
+  </artifact>
+</component>
